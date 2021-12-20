@@ -1,0 +1,7 @@
+{
+  "name": "ideepaksuryas",
+  "version": "1.0.0",
+  "bin": {
+    "ideepaksuryas": "index.js"
+  }
+}
