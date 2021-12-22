@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 console.log(`
 Deepak Surya S
 
