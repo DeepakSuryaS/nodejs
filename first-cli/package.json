@@ -1,7 +1,10 @@
 {
   "name": "ideepaksuryas",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "bin": {
     "ideepaksuryas": "index.js"
+  },
+  "dependencies": {
+    "clear-any-console": "^1.16.2"
   }
 }
