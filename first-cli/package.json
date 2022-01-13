@@ -12,5 +12,13 @@
     "Deepak Surya S",
     "Deepak Surya",
     "ideepaksuryas"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "DeepakSuryaS",
+  "author": {
+    "name": "Deepak Surya S",
+    "email": "ideepaksuryas@gmail.com",
+    "url": "twitter.com/ideepaksuryas"
+  }
 }
