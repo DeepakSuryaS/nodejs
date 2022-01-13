@@ -1,6 +1,6 @@
 {
   "name": "ideepaksuryas",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Get to know Deepak Surya via `npx ideepaksuryas`",
   "bin": {
     "ideepaksuryas": "index.js"
